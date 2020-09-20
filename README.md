@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any AI,IoT,Data Science project
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about-Anything
-- 📫 How to reach me: inkedIn me o
+- 📫 How to reach me: linkedin.com/in/mounica-kanagarajan/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: READY TO EXPLORE!
