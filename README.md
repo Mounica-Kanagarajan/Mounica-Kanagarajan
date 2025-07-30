@@ -3,10 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AI Projects
-- 🌱 I’m currently learning about AI and IoT
-- 👯 I’m looking to collaborate on any AI,IoT,Data Science project
-- 🤔 I’m looking for help with AI
+- 🔭 I’m currently working as Backend Developer
+- 🌱 I’m specialize in Java with Spring Boot and Kafka
 - 💬 Ask me about-Anything
 - 📫 How to reach me: linkedin.com/in/mounica-kanagarajan/
 - 😄 Pronouns: She/Her
